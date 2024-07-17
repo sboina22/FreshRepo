@@ -1,3 +1,4 @@
+// to demo git Integration with ecclips
 
 public class AustraliTrafic  implements CentralTraffic, ContinentalInterface{
 

@@ -1,5 +1,8 @@
 // to demo git Integration with ecclips
 // 2nd change in the File Australia file 
+//git checkout -b develop
+//git branch >> shows all branches and current branch *
+//git add/commit > on branch only
 
 public class AustraliTrafic  implements CentralTraffic, ContinentalInterface{
 

@@ -4,6 +4,11 @@
 //git branch >> shows all branches and current branch *
 //git add/commit > on branch only
 //Random changes in Pull repo files
+
+// Hello I am in develop branch, add, commit, push to develop branch
+//After that needs to pull 
+
+
 public class AustraliTrafic  implements CentralTraffic, ContinentalInterface{
 
 	public static void main(String[] args) {
